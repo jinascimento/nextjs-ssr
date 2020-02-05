@@ -1,0 +1,1 @@
+{"name":"nextssr","version":"1.0.0","description":"NextJS Server-side-rendering","main":"index.js","author":{"name":"Jhonata I. Nascimento"},"license":"MIT","dependencies":{"axios":"^0.19.2","next":"^9.2.1","react":"^16.12.0","react-dom":"^16.12.0"},"scripts":{"dev":"next","start":"next start","build":"next build"},"readme":"ERROR: No README data found!","_id":"nextssr@1.0.0"}
